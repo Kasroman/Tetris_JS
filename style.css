@@ -1,0 +1,28 @@
+body {
+    background-color: grey;
+
+}
+.grid{
+    width: 400px;
+    height: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+.grid div {
+    width: 40px;
+    height: 40px;
+}
+
+.shape {
+    border: 1px solid grey;
+}
+
+/* .game {
+    width: 400px;
+} */
+
+.display-score{
+    width: 400px;
+}
